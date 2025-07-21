@@ -7,13 +7,13 @@ This project implements a low power MAC unit using approximate adders, targeting
 - Approximate ripple carry adder (8-bit)
 - MAC operation with Verilog
 - Testbench with input stimulus
-- Waveform analysis using GTKWave
+- Waveform analysis 
 - Power and area comparison report
 
 ## 🛠 Tools Used
-- ModelSim
+- Cadence(Xcelium, Genus)
 - Verilog HDL
-- Python (for data visualization)
+- System Verilog
 
 ## 📁 Folder Structure
 - `src/` – Verilog code
