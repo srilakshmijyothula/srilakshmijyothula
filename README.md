@@ -1,16 +1,29 @@
-## Hi there 👋
+# Low Power DSP MAC Unit using Approximate Circuits
 
-<!--
-**srilakshmijyothula/srilakshmijyothula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+This project implements a low power MAC unit using approximate adders, targeting real-time DSP applications. It aims to reduce power consumption with tolerable accuracy loss.
 
-Here are some ideas to get you started:
+## 🚀 Features
+- Approximate ripple carry adder (8-bit)
+- MAC operation with Verilog
+- Testbench with input stimulus
+- Waveform analysis using GTKWave
+- Power and area comparison report
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools Used
+- ModelSim
+- Verilog HDL
+- Python (for data visualization)
+
+## 📁 Folder Structure
+- `src/` – Verilog code
+- `tb/` – SystemVerilog testbenches
+- `reports/` – Power, area, waveform results
+
+## 📸 Snapshots
+(http://sites.google.com/view/synthesissquad/home)
+## 🧠 Learning Outcome
+- RTL Design
+- Functional Verification
+- Approximate Computing Concepts
+
